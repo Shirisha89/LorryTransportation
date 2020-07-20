@@ -1,0 +1,50 @@
+p{
+  color:green;
+  font-size: 23px;
+}
+h1{
+  color:blue;
+}
+h3{
+  font-size: 25px;
+}
+marquee{
+  color:red;
+  font-size: 20px;
+}
+a{
+  color:orange;
+  font-size: 20px;
+}
+*{
+  font-style: timesnewroman;
+}
+.info{
+background-color: yellow;
+font-size: 23px;
+border: 2px green double;
+}
+span{
+  background-color: skyblue;
+}
+#contact{
+  color: green;
+  font-size: 25px;
+}
+body{
+  font-family: 'Noto Serif', serif;
+  margin:0px
+}
+form{
+  font-size: 20px;
+  text-align: center;
+  color: blue;
+}
+#submit{
+  height:40px;
+  width:120px;
+  font-size: 20px;
+  background-color: #ff9f1c;
+  border-radius: 25px;
+margin: 20px;
+}
